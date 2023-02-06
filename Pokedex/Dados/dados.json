@@ -1,0 +1,122 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "Bulbasaur",
+    "Descricao": "Se puede ver a Bulbasaur durmiendo la siesta a la luz del sol. Hay una semilla en su espalda. Al absorber los rayos del sol, tu semilla crece progresivamente.",
+    "Especie": "Seed",
+    "Tipo": [ "Planta", "Venenoso" ] ,
+    "Altura": 0.7,
+    "Peso": 6.9,
+    "Imagem": "img/001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Ivysaur",
+    "Descricao": "Hay un capullo en la parte posterior de este Pokémon. Para soportar su peso, las piernas y el torso de Ivysaur se vuelven gruesos y fuertes. Si comienza a pasar más tiempo tumbado a la luz del sol, es una señal de que pronto el capullo se convertirá en una gran flor.",
+    "Especie": "Seed",
+    "Tipo": [ "Planta", "Venenoso" ] ,
+    "Altura": 1,
+    "Peso": 13,
+    "Imagem": "img/002.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Venusaur",
+    "Descricao": "Hay una gran flor en la espalda de Venusaur. Se dice que la flor adquiere colores vivos si recibe mucha nutrición y luz solar. El aroma de la flor calma las emociones de las personas.",
+    "Especie": "Seed",
+    "Tipo": [ "Planta", "Venenoso" ] ,
+    "Altura": 2,
+    "Peso": 100,
+    "Imagem": "img/003.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Charmander",
+    "Descricao": "La llama que arde en la punta de su cola es un indicio de sus emociones. La llama parpadea cuando Charmander se divierte. Si el Pokémon se enfurece, la llama arde ferozmente.",
+    "Especie": "Lizard",
+    "Tipo": [ "Fuego" ],
+    "Altura": 0.6,
+    "Peso": 8.5,
+    "Imagem": "img/004.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Charmeleon",
+    "Descricao": "Charmeleon destruye sin piedad a sus enemigos usando sus afiladas garras. Si se encuentra con un enemigo fuerte, se vuelve agresivo. En este estado excitado, la llama en la punta de su cola brilla con un color blanco azulado.",
+    "Especie": "Flame",
+    "Tipo": [ "Fuego" ],
+    "Altura": 1.1,
+    "Peso": 19,
+    "Imagem": "img/005.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Charizard",
+    "Descricao": "Charizard vuela por el cielo en busca de poderosos oponentes. Respira tal calor que derrite cualquier cosa. Sin embargo, nunca le da un aliento ardiente a ningún oponente más débil que él.",
+    "Especie": "Flame",
+    "Tipo": [ "Fuego", "Volador" ],
+    "Altura": 1.7,
+    "Peso": 90.5,
+    "Imagem": "img/006.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Squirtle",
+    "Descricao": "El caparazón de Squirtle no solo se usa como protección. La forma redondeada del caparazón y las ranuras de la superficie ayudan a minimizar el arrastre en el agua, lo que permite que este Pokémon nade a gran velocidad.",
+    "Especie": "Tiny Turtle",
+    "Tipo": [ "Agua" ],
+    "Altura": 0.5,
+    "Peso": 9,
+    "Imagem": "img/007.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Wartortle",
+    "Descricao": "Su cola es grande y está cubierta de un pelaje rico y espeso. La cola se vuelve más y más profunda en color a medida que Wartortle envejece. Los arañazos en su caparazón son evidencia de la dureza de este Pokémon como luchador.",
+    "Especie": "Turtle",
+    "Tipo": [ "Agua" ],
+    "Altura": 1,
+    "Peso": 22.5,
+    "Imagem": "img/008.png"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Blastoise",
+    "Descricao": "Blastoise tiene chorros de agua que sobresalen de su caparazón. Las boquillas de agua son muy precisas. Pueden disparar balas de agua con la precisión suficiente para golpear latas vacías desde un rango de más de 200 pies.",
+    "Especie": "Shellfish",
+    "Tipo": [ "Agua" ],
+    "Altura": 1.6,
+    "Peso": 85.5,
+    "Imagem": "img/009.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Caterpie",
+    "Descricao": "Caterpie tiene un apetito voraz. Puede devorar hojas más grandes que su cuerpo ante tus ojos. Desde su antena, este Pokémon libera un olor terriblemente fuerte.",
+    "Especie": "Worm",
+    "Tipo": [ "Insecto" ],
+    "Altura": 0.3,
+    "Peso": 2.9,
+    "Imagem": "img/010.png"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Metapod",
+    "Descricao": "El caparazón que cubre el cuerpo de este Pokémon es tan duro como una losa de hierro. Metapod no se mueve mucho. Se queda quieto porque está preparando su suave interior para evolucionar dentro del caparazón duro.",
+    "Especie": "Cocoon",
+    "Tipo": [ "Insecto" ],
+    "Altura": 0.7,
+    "Peso": 9.9,
+    "Imagem": "img/011.png"
+  },
+  {
+    "Numero": 12,
+    "Nome": "Butterfree",
+    "Descricao": "Butterfree tiene una capacidad superior para obtener deliciosa miel de las flores. Incluso puede buscar, extraer y transportar miel de flores que están en flor a más de 10 kilómetros del nido.",
+    "Especie": "Butterfly",
+    "Tipo": [ "Insecto", "Volador" ],
+    "Altura": 1.1,
+    "Peso": 32,
+    "Imagem": "img/012.png"
+  }
+]
